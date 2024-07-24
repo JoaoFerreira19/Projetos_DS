@@ -13,4 +13,4 @@ Experiência como Coordenador e Analista Financeiro e Analista de Planejamento e
 * [LinkedIn](https://www.linkedin.com/in/joaofcitrangulo/)
 
 **Projetos:**
-* [Analisando os dados dos imóveis da cidade de Barcelona](https://github.com/joaofcitrangulo/Projetos_DS/blob/main/Analisando_os_Dados_do_Airbnb_Barcelona.ipynb)
+* [Analisando os dados dos imóveis da cidade de Barcelona](https://github.com/joaoflaviocitrangulo/Projetos_DS/blob/main/Analisando_os_Dados_do_Airbnb_Barcelona.ipynb)
